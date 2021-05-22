@@ -1,0 +1,16 @@
+ <footer class="site-footer"> <div class="footer-support bg-success"> <div class="container"> <h4>هل لديك اسئلة؟ اتصل الآن <a class="support-phone" href="tel:+966566995492" target="_blank">0566995492</a></h4> </div></div><div class="container pt-3"> <div class="row"> <div class="col-md"> <h5>الاستضافة</h5> <ul class="list-unstyled text-small"> <li><a class="text-muted" href="/">استضافة مواقع</a></li><li><a class="text-muted" href="/reseller.php">استضافة ريسيلر</a></li><li><a class="text-muted" href="#">VPS رخيص</a></li><li><a class="text-muted" href="ssl.php">شهادات الأمان SSL</a></li><li><a class="text-muted" href="domain.php">تسجيل دومين</a></li><li><a class="text-muted" href="mailhosting.php">استضافة الايميل</a></li></ul> </div><div class="col-md"> <h5>الخدمات</h5> <ul class="list-unstyled text-small"> <li><a class="text-muted" href="/client/index.php?rp=/store/weebly-website-builder">منشيء مواقع الويب</a></li><li><a class="text-muted" href="/client/index.php?rp=/store/marketgoo">أدوات SEO</a></li><li><a class="text-muted" href="/client/index.php?rp=/store/hmy-at-lmwq">أمن مواقع ويب</a></li></ul> </div><div class="col-md"> <h5>معلومات</h5> <ul class="list-unstyled text-small"> <li><a class="text-muted" href="/client/contact.php">اتصل بنا</a></li><li><a class="text-muted" href="/privacy.php">الخصوصية</a></li><li><a class="text-muted" href="/terms.php">الشروط</a></li><li><a class="text-muted" href="/client/clientarea.php">تسجيل الدخول</a></li></ul> </div><div class="col-12 col-md"> <p class="small text-muted">مؤسسة عبدالله خالد الحربي لتقنية المعلومات &copy; 2020</p><a href="https://www.facebook.com/ebdda1/" target="_blank" class="social"><i class="fa fa-facebook"></i></a><a href="https://www.instagram.com/ebddaweb/" target="_blank" class="social"><i class="fa fa-instagram"></i></a><a href="https://twitter.com/ebddaweb" target="_blank" class="social"><i class="fa fa-twitter"></i></a><br><a href="https://maroof.sa/12200" target="_blank"><img src="https://ebddacdn.s3.eu-central-1.amazonaws.com/img/maroof.png" alt="maroof" title="معروف" width="80" height="50"></a> </div></div></div></footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://ebddacdn.s3.eu-central-1.amazonaws.com/js/bootstrap.min.js"></script>
+
+<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '0edcccb5-1871-4d16-bb82-325101f682ea', f: true }); done = true; } }; })();</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167489484-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167489484-1');
+</script></body></html>
